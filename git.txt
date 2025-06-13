@@ -1,0 +1,14 @@
+git init
+git add .
+git commit -m "Init"
+git remote add origin http://
+git push -u origin master
+
+192.168.0.117\SQLEXPRESS
+User#
+wsruser#
+
+Frame x:Name="" NavigationUIVisibility="false"
+Window min-max <-> width-height
+
+NavigationService.Navigate(new)
